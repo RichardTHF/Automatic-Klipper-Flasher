@@ -1,0 +1,8 @@
+﻿Brand,Board,KlipperUSB,KlipperBridge,KlipperCAN,Klipper UART,KatapultBL,KatapultUSB,KatapultBridge,KatapultCAN,SelfFlash
+Fysetc,Spider 2.2,config.spiderv3usb,N,N,config.spiderv3uart,Y,config.spiderkatapultusb,N,N,N
+Fysetc,Spider 2.3,config.spiderv3usb,N,config.spiderv3canclient,N,Y,config.spiderkatapultusb,N,config.spiderv3canclientkatapult,N
+Fysetc,Spider 3.0,config.spiderv3usb,config.spiderv3can,config.spiderv3canclient,N,Y,config.spiderkatapultusb,config.spiderkatapultcanbridge,config.spiderv3canclientkatapult,Y
+Fysetc,King Spider,config.spiderking,,,,N,config.spiderkingkatapult,,,N
+Fysetc,Cheetah V2,config.vcheetah,,,,N,config.vcheetahkatapult,,,N
+Fysetc,Cheetah V3,config.vcheetah,,,,N,config.vcheetahkatapult,,,N
+Fysetc,Catalyst,config.catalyst,,,,N,config.catalyst,,,N
